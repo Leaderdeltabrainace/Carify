@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">carify2</string>
+    <string name="security">Security</string>
+    <string name="sos">SOS</string>
+    <string name="guard">GUARD</string>
+    <string name="msgline">In case of emergency keep calling on family number</string>
+    <string name="home">Home</string>
+    <string name="dashboard">dashboard</string>
+    <string name="profile">Profile</string>
+    <string name="my_family">My Family</string>
+    <string name="calculate">calculate</string>
+    <string name="add">ADD</string>
+    <string name="substract">SUBSTRACT</string>
+    <string name="multiply">MULTIPLY</string>
+    <string name="divide">DIVIDE</string>
+    <string name="persantage">PERSANTAGE</string>
+    <string name="percentage">PERCENTAGE</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="carify">Carify</string>
+</resources>
